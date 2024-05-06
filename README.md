@@ -28,9 +28,9 @@ Welcome to the Python Basic Projects repository! This repository contains a coll
    - Description: A simple calculator program that performs basic arithmetic operations.
    - File: `textbasecalculator.py`
 
-7. **Caesar Cipher Game (Console Application):**
-   - Description: A game where users can encrypt and decrypt messages using the Caesar Cipher algorithm.
-   - File: `caesarciphergame.py`
+7. **Rock, Paper, Scissors Game (Console Application):**
+   - Description: A game where players can play rock, paper, scissors against the computer.
+   - File: `rockpaperscissors.py`
 
 ## Getting Started
 
