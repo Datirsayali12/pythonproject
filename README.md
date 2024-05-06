@@ -1,12 +1,12 @@
 # Python Basic Projects
 
-Welcome to the Python Basic Projects repository! This repository contains a collection of simple Python projects covering various topics such as GUI applications, games, and utility scripts.
+Welcome to the Python Basic Projects repository! This repository contains a collection of simple Python projects covering various topics such as GUI applications, games, and utility scripts. 
 
 ## Projects Included
 
 1. **Miles to Kilometers Converter (Tkinter):**
    - Description: A GUI application built with Tkinter that converts miles to kilometers.
-   - File: `milestokm_converter.py`
+   - File: `milestokm.py`
 
 2. **Auction Bid (Console Application):**
    - Description: A simple console-based auction bidding system.
@@ -18,11 +18,19 @@ Welcome to the Python Basic Projects repository! This repository contains a coll
 
 4. **Caesar Cipher (Text Encryption/Decryption):**
    - Description: A console-based Caesar cipher implementation for text encryption and decryption.
-   - File: `caesar_cipher.py`
+   - File: `caesarcipher.py`
 
 5. **Hangman Game (Console Application):**
    - Description: The classic Hangman game implemented in Python.
    - File: `hangmangame.py`
+
+6. **Text-based Calculator (Console Application):**
+   - Description: A simple calculator program that performs basic arithmetic operations.
+   - File: `textbasecalculator.py`
+
+7. **Caesar Cipher Game (Console Application):**
+   - Description: A game where users can encrypt and decrypt messages using the Caesar Cipher algorithm.
+   - File: `caesarciphergame.py`
 
 ## Getting Started
 
