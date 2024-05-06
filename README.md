@@ -37,4 +37,4 @@ Welcome to the Python Basic Projects repository! This repository contains a coll
 To get started with these projects, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/python-basic-projects.git
+git clone https://github.com/Datirsayali12/pythonproject.git
