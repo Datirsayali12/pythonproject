@@ -30,7 +30,7 @@ Welcome to the Python Basic Projects repository! This repository contains a coll
 
 7. **Rock, Paper, Scissors Game (Console Application):**
    - Description: A game where players can play rock, paper, scissors against the computer.
-   - File: `rockpaperscissors.py`
+   - File: `seicorcipher.py`
 
 ## Getting Started
 
