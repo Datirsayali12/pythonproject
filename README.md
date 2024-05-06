@@ -1,6 +1,6 @@
 # Python Basic Projects
 
-Welcome to the Python Basic Projects repository! This repository contains a collection of simple Python projects covering various topics such as GUI applications, games, and utility scripts. Each project focuses on a specific concept or skill to help beginners learn Python programming.
+Welcome to the Python Basic Projects repository! This repository contains a collection of simple Python projects covering various topics such as GUI applications, games, and utility scripts.
 
 ## Projects Included
 
